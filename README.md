@@ -14,5 +14,5 @@ Technology can makes a difference, whether it's simplifying daily tasks, or shap
 ### 📫 Let's Connect!
 Feel free to check out my projects, collaborate, or just say hi!
 
-[LinkedIn]([url](https://www.linkedin.com/in/vinnykaushik/))
-[Email](vin.kaushik23@gmail.com)
+Here's my [LinkedIn](https://www.linkedin.com/in/vinnykaushik/) and my 
+[email](vin.kaushik23@gmail.com)!
