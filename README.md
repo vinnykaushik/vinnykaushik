@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Vinny Kaushik, a Computer Science and English at Northeastern University! I'm currently a sophomore who loves exploring the intersection of technology and creativity, building meaningful projects, and constantly learning new skills.
+I'm Vinny Kaushik, a Computer Science and English major at Northeastern University! I'm currently a sophomore who loves exploring the intersection of technology and creativity, building meaningful projects, and constantly learning new skills.
 
 ### 🔭 What I'm Working On
 One of my proudest projects is TravelNEU, a web development project that helps users explore travel opportunities within and around Northeastern University. It's a rewarding experience to combine my technical skills with real-world applications.
